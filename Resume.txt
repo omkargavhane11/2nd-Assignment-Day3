@@ -1,0 +1,11 @@
+let resumeData = {
+    name : "Omkar Bhagwan Gavhane",
+    summary : "Senior web developer specializing in front-end developement",
+    highlights:["Creative designs","SEO","Service Focused","Innovative","Complex problem solver","Usability expertise"],
+    experience:"freelance web developer at Redstone Web Design. There worked wih senior developer to manage large, complex design projects for corporate clients",
+    education:"Diploma in Mechnical Engineering",
+    university:"BVIT",
+    YOP:"2017",
+    Certifications:["Java SE 7 Certified Programmer","C Certified Proffesional Programmer(CLP)"],
+    programmingLanguages: ["Java","Python","JavaScript"],
+}
